@@ -7,6 +7,7 @@ public class ifelse {
         System.out.println("enter your number x");
         x = sc.nextInt();
         if(x%2==0){
+            System.out.println("Pushpinder");
             System.out.println("its an even number");
         }
         else {
